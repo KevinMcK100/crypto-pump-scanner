@@ -36,3 +36,13 @@ The code handles this as follows:
 - Data is displayed in a table upon fetching and ranking all price data
 - A separate thread pulls the top 5 top moves and refreshes price data for these coins every 10 seconds
 - After a minute, the first thread will refresh all price data again
+
+## Donations
+
+If you find this project useful or profitable, feel free to buy me a coffee ☕
+
+Cryptocurrency | Network | Address
+--- | --- | ---
+BNB | BSC | 0x3f242ecb500bba903daff1976d4b65c68f915aee
+USDT | BSC | 0x571bcf270D1272dfEB37d483CB45e3B41837Fab9
+USDT | TRC20 | TRvc8ZqgiJiBiRgFbLBTtmceyUij6UWoSg
